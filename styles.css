@@ -1,5 +1,13 @@
 /*  your css code here. If applicable */
 #box{
 	background-color:lightblue;
+	width:200px;
+	Height:200px;
+	border:2px solid black;
+	position:center;
+	color:purple;
+
+	text-align:center;
+	padding-top:20%;
 	
 }
